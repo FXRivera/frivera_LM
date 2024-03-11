@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\Desktop\\COMP2315_LM\\Laboratorios C#\\HelloWorld.cs\\HelloWorld.cs.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\Desktop\\COMP2315_LM\\Laboratorios C#\\HelloWorld\\HelloWorld.cs.csproj",
       "projectName": "HelloWorld.cs",
-      "projectPath": "C:\\Users\\franc\\Desktop\\COMP2315_LM\\Laboratorios C#\\HelloWorld.cs\\HelloWorld.cs.csproj",
+      "projectPath": "C:\\Users\\franc\\Desktop\\COMP2315_LM\\Laboratorios C#\\HelloWorld\\HelloWorld.cs.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\Desktop\\COMP2315_LM\\Laboratorios C#\\HelloWorld.cs\\obj\\",
+      "outputPath": "C:\\Users\\franc\\Desktop\\COMP2315_LM\\Laboratorios C#\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
