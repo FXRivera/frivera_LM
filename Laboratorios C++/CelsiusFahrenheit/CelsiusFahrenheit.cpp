@@ -11,7 +11,7 @@ int main()
 
     fahrenheit = celsius * 9/5 + 32;
 
-    cout <<"La temperatura ingresada en grados celsius es equivalente a " << fahrenheit << "grados fahrenheit."<<endl;
+    cout <<"La temperatura ingresada en grados celsius es equivalente a " << fahrenheit << " grados fahrenheit."<<endl;
 
     return 0;
 }
