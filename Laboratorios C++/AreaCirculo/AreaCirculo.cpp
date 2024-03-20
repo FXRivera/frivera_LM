@@ -8,7 +8,7 @@ int main()
     double radio;
     const double PI = 3.14; //Identificador constante
 
-    cout <<"Ingrese la medida del radio: ";
+    cout <<"Ingrese la medida del radio: "; //ingresar la medida del radio
     cin >> radio;
 
     area = PI * radio * radio;
