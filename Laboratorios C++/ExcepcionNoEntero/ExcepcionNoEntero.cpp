@@ -4,13 +4,13 @@ using namespace std;
 int main()
 {
     int numero;
-
+    
     cout << "Ingrese el número: ";//ingresar número
-    cin >> numero;
 
     try
     {
-        if (numero == )
+        cin >> numero;
+        if (cin.fail() || cin.peek() != '\n')
         {
             throw "Valor ingresado no es entero."; //mensaje que describe el problema
         }
@@ -19,7 +19,9 @@ int main()
     }
     catch (const char * mensaje)
     {
-        cout << "Excepción capturada: " <<mensaje << endl;
+        cerr << "Excepción capturada: " <<mensaje << endl;
+        return 1;
     }
+    
     return 0;
 }
