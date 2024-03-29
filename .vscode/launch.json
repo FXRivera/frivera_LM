@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "calculo_a_la_media",
+      "request": "launch",
+      "mainClass": "calculo_a_la_media",
+      "projectName": "COMP2315_LM_cac29535"
+    },
+    {
+      "type": "java",
+      "name": "AnosAntiguedad",
+      "request": "launch",
+      "mainClass": "AnosAntiguedad",
+      "projectName": "COMP2315_LM_cac29535"
+    },
+    {
+      "type": "java",
+      "name": "EvaluacionEstudiante2",
+      "request": "launch",
+      "mainClass": "src.EvaluacionEstudiante2",
+      "projectName": "COMP2315_LM_cac29535"
+    },
+    {
+      "type": "java",
+      "name": "Evaluacion",
+      "request": "launch",
+      "mainClass": "Evaluacion",
+      "projectName": "COMP2315_LM_cac29535"
+    },
+    {
+      "type": "java",
       "name": "EvaluacionEstudiante",
       "request": "launch",
       "mainClass": "EvaluacionEstudiante",
