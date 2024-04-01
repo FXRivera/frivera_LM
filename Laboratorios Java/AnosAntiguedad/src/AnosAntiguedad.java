@@ -10,7 +10,7 @@ public class AnosAntiguedad{
         if(antiguedad >= 5){
             System.out.println("Es elegible para el bono, recibirá $1000.");
         }
-        else{
+        if(antiguedad < 5){
             System.out.println("El empleado no es elegible para el bono.");
         }
         scanner.close();

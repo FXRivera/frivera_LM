@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TarjetaBiblioteca",
+      "request": "launch",
+      "mainClass": "TarjetaBiblioteca",
+      "projectName": "COMP2315_LM_cac29535"
+    },
+    {
+      "type": "java",
       "name": "calculo_a_la_media",
       "request": "launch",
       "mainClass": "calculo_a_la_media",
