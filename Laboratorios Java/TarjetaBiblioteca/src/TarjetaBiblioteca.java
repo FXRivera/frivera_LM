@@ -3,7 +3,7 @@ public class TarjetaBiblioteca{
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
-        //Solicitar al usuario qye ingrese el estado de la tarjeta
+        //Solicitar al usuario que ingrese el estado de la tarjeta
         System.out.print("Ingrese el estado de su tarjeta de biblioteca (1 para activo y 2 para inactivo): ");
         int estadoTarjeta = scanner.nextInt();
 
