@@ -13,7 +13,7 @@ int main(){
 
     //verifica que el numero de estudiantes no sobrepase 10
     if(numeroEstudiante <= 10){
-     //cuenta los estudiantes y sus calificaciones
+        //cuenta los estudiantes y sus calificaciones
         for(int i = 1; i <= numeroEstudiante; i++){
 
             //le pide al usuario el nombre del estudiante
