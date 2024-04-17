@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExamenPrueba",
+      "request": "launch",
+      "mainClass": "ExamenPrueba",
+      "projectName": "COMP2315_LM_cac29535"
+    },
+    {
+      "type": "java",
       "name": "Nombre10VecesFor",
       "request": "launch",
       "mainClass": "Nombre10VecesFor",
