@@ -12,7 +12,7 @@ public class ExamenPrueba {
             System.out.print("Ingrese calificación " + i + ": ");
             calificacion = scanner.nextDouble();
 
-            sumaCalificacion += calificacion;
+            sumaCalificacion = sumaCalificacion + calificacion;
         }
         promedio = sumaCalificacion/3;
 
