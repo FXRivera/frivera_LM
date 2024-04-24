@@ -4,7 +4,7 @@ using namespace std;
 
 const double PI = 3.14; //definir variable global y constante
 
-double calcularAreaCirculo(double radio0); //definir función
+double calcularAreaCirculo(double radio); //definir función
 
 int main(){
     double radio;
